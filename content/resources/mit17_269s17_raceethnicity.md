@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding Race and Ethnicity Questions
   for the United States Census.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-269-race-ethnicity-and-american-politics-spring-2017/d7bda8140d431c931b4299e5a2cd5257_MIT17_269S17_RaceEthnicity.pdf
+file: /media/courses/17-269-race-ethnicity-and-american-politics-spring-2017/d7bda8140d431c931b4299e5a2cd5257_MIT17_269S17_RaceEthnicity.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '17.269S17 Race, Ethnicity, and American Politics - Assignments: Paper 1: Race
   and Ethnicity Questions'

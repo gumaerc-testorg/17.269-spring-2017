@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 484322fb-a1c3-74e2-488b-098509faf27d
 ---
@@ -611,9 +614,9 @@ Overview of Race and Policy
 Coates, Ta-Nehisi. "[The Case for Reparations](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)." _The Atlantic_, June 2014.  
 _(The whole article is recommended but Sections V–VI are required.)_
 
-Lipsky, Michael. "Street-Level Bureaucrats as Policy Makers." Chapter 2 in _Street-Level Bureaucracy: Dilemmas of the Individual in Public Services, 30th Anniversary Expanded Edition_. Russell Sage Foundation, 2010, pp. 13–18. ISBN: 9780871545442. \[Preview with [Google Books](http://books.google.com/books?id=cs_djgS5v-UC&pg=PA13=onepage)\]
+Lipsky, Michael. "Street-Level Bureaucrats as Policy Makers." Chapter 2 in _Street-Level Bureaucracy: Dilemmas of the Individual in Public Services, 30{{< sup "th" >}} Anniversary Expanded Edition_. Russell Sage Foundation, 2010, pp. 13–18. ISBN: 9780871545442. \[Preview with [Google Books](http://books.google.com/books?id=cs_djgS5v-UC&pg=PA13=onepage)\]
 
-———. "Rationing Services: Inequality in Administration." Chapter 8 in _Street-Level Bureaucracy: Dilemmas of the Individual in Public Services, 30th Anniversary Expanded Edition_. Russell Sage Foundation, 2010. ISBN: 9780871545442. \[Preview with [Google Books](http://books.google.com/books?id=cs_djgS5v-UC&pg=PA105=onepage)\]
+———. "Rationing Services: Inequality in Administration." Chapter 8 in _Street-Level Bureaucracy: Dilemmas of the Individual in Public Services, 30{{< sup "th" >}} Anniversary Expanded Edition_. Russell Sage Foundation, 2010. ISBN: 9780871545442. \[Preview with [Google Books](http://books.google.com/books?id=cs_djgS5v-UC&pg=PA105=onepage)\]
 
 Massey, Douglas S., and Nancy A. Denton. "Shoring the Bulwarks of Segregation, 1940—1970." In _American Apartheid: Segregation and the Making of the Underclass_. Harvard University Press, 1993, pp. 42–57. ISBN: 9780674018211. \[Preview with [Google Books](http://books.google.com/books?id=uGslMsIBNBsC&pg=PA42=onepage)\]
 
@@ -630,7 +633,7 @@ Massey, Douglas S., and Nancy A. Denton. "Shoring the Bulwarks of Segregation, 1
 
 Carceral State 1: Film Screening
 
-[_13th_](http://www.avaduvernay.com/13th/). Directed by Ava Duvernay. Color, 100 min. 2016.
+[_13{{< sup "th" >}}_](http://www.avaduvernay.com/13th/). Directed by Ava Duvernay. Color, 100 min. 2016.
 
 
 {{< tdclose >}}

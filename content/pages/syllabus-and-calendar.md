@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: 7c98ee21-92af-0fdc-27b4-6dbec03bb4bf
 ---
@@ -455,7 +457,7 @@ Overview of Race and Policy
 
 Carceral State 1: Film Screening
 
-[_13th_](http://www.avaduvernay.com/13th/). Directed by Ava Duvernay. Color, 100 min. 2016.
+[_13{{< sup "th" >}}_](http://www.avaduvernay.com/13th/). Directed by Ava Duvernay. Color, 100 min. 2016.
 
 
 {{< tdclose >}}

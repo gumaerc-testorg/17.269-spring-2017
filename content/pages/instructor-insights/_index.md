@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: d27a77b2-f718-69f2-d927-fd60d4e96eb9
 ---
@@ -36,20 +38,6 @@ Unrestricted elective credits
 ### Offered
 
 17.269 was offered for the first time in Spring 2017.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Three rows of long grey tables with wooden chairs facing chalkboards.]({{< resource_file 82daf8d5-f11d-d6e2-483b-155c53fc3e1a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminar sessions were held in a classroom with moveable tables and chairs, chalkboards, and an A/V system.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: d27a77b2-f718-69f2-d927-fd60d4e96eb9
 title: Fostering Intuition about Social Science
 uid: 7155415f-b0e7-588e-4de0-e78d9a0d94ba

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: d27a77b2-f718-69f2-d927-fd60d4e96eb9
 title: Inspiration for the Course
 uid: 6a83b515-7e63-7a3f-5a70-f23981278e98
