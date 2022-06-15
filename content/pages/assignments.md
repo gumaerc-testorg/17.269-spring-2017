@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This session contains information on the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,7 +30,7 @@ Paper 1 will be due by the beginning of Session 10.
 
 ### Student Example
 
-["A More Informative Set of Race and Ethnicity Questions for the United States Census." (PDF)]({{< baseurl >}}/resources/mit17_269s17_raceethnicity) (Courtesy of MIT Student.)
+{{% resource_link d7bda814-0d43-1c93-1b42-99e5a2cd5257 "\"A More Informative Set of Race and Ethnicity Questions for the United States Census.\" (PDF)" %}} (Courtesy of MIT Student.)
 
 Paper 2
 -------

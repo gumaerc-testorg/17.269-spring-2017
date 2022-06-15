@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor Ariel White discusses how she makes use of
+  the popular press and imaginative research design scenarios to prepare students
+  to engage with social science as citizens.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
