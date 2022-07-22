@@ -1,13 +1,14 @@
 ---
 content_type: page
-layout: instructor_insights
-parent_title: Instructor Insights
+description: In this section, Professor Ariel White shares how she became interested
+  in issues of race and ethnicity in government and what inspired her to develop the
+  course, 17.269 Race, Ethnicity, and American Politics.
+draft: false
 parent_uid: d27a77b2-f718-69f2-d927-fd60d4e96eb9
 title: Inspiration for the Course
 uid: 6a83b515-7e63-7a3f-5a70-f23981278e98
 ---
-
-_In this section, Professor Ariel White_ _shares how she became interested in issues of race and ethnicity in government and what inspired her to develop the course,_ 17.269 Race, Ethnicity, and American Politics_._
+_In this section, Professor Ariel White_ _shares how she became interested in issues of race and ethnicity in government and what inspired her to develop the course,_ 17.269 Race, Ethnicity, and American Politics.
 
 {{< quote "I developed 17.269 Race, Ethnicity, and American Politics because I want to give students a social science lens for thinking about how issues of race and ethnicity shape government." "— Ariel White" >}}
 

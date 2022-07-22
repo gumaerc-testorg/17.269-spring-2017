@@ -1,29 +1,28 @@
 ---
 content_type: page
-layout: instructor_insights
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 title: Instructor Insights
 uid: d27a77b2-f718-69f2-d927-fd60d4e96eb9
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-![Woman sitting in a chair in front of a desk. Bookshelves on wall above desk. Windows on one wall. Fall foliage outside of widow.]({{< resource_file efd0e090-23da-d3c8-cc99-ab8ece751227 >}})
+{{< resource efd0e090-23da-d3c8-cc99-ab8ece751227 >}}
 
 Ariel White, Assistant Professor of Political Science, at work in her office on the MIT campus.
 
-Below, Assistant Professor Ariel White describes various aspects of how she teaches _17.269 Race, Ethnicity, and American Politics._
+Below, Prof. Ariel White describes various aspects of how she teaches _17.269 Race, Ethnicity, and American Politics._
 
-*   [Inspiration for the Course]({{< baseurl >}}/pages/instructor-insights/inspiration-for-the-course)
-*   [Facilitating Talk about Race and Ethnicity]({{< baseurl >}}/pages/instructor-insights/facilitating-talk-about-race-and-ethnicity)
-*   [Fostering Intuition about Social Science]({{< baseurl >}}/pages/instructor-insights/fostering-intuition-about-social-science)
+- {{% resource_link 6a83b515-7e63-7a3f-5a70-f23981278e98 "Inspiration for the Course" %}}
+- {{% resource_link 9495f54b-0a50-9f45-88b0-f0180267b632 "Facilitating Talk about Race and Ethnicity" %}}
+- {{% resource_link 7155415f-b0e7-588e-4de0-e78d9a0d94ba "Fostering Intuition about Social Science" %}}
 
 {{< quote "We always come back to the one question that is the subheading of all my classes: Why is social science so difficult?" "— Ariel White" >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -37,24 +36,9 @@ Unrestricted elective credits
 
 17.269 was offered for the first time in Spring 2017.
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Three rows of long grey tables with wooden chairs facing chalkboards.]({{< resource_file 82daf8d5-f11d-d6e2-483b-155c53fc3e1a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminar sessions were held in a classroom with moveable tables and chairs, chalkboards, and an A/V system.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -62,10 +46,11 @@ The students' grades were based on the following activities:
 - 35% Final exam
 - 15% Class participation
 
-Student Information
--------------------
+## Student Information
 
-![Less than 10 students took this course when it was offered in Spring 2017.]({{< resource_file 6a921622-48fa-df40-f771-a0c971decb42 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -77,19 +62,16 @@ The class was racially and ethnically diverse, and students brought their differ
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 1.5 hours per session; 26 sessions total.
-*   Class sessions were discussion-based, and some included reading quizzes.
-*   During the final module of the course, students watched a screening of the film “[_13th_](http://www.avaduvernay.com/13th/)”, directed by Ava Duvernay (2016).
+- Met 2 times per week for 1.5 hours per session; 26 sessions total.
+- Class sessions were discussion-based, and some included reading quizzes.
+- During the final module of the course, students watched a screening of the film “[_13th_](http://www.avaduvernay.com/13th/)”, directed by Ava Duvernay (2016).
 
-Out of Class
-------------
+### Out of Class
 
-*   Students completed readings and prepared two papers.
+- Students completed readings and prepared two papers.

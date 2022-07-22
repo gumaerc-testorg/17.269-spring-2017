@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information on how to prepare for the final exam.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: ab78e96d-23dd-2727-175d-a8f0d2d7a82a
 ---

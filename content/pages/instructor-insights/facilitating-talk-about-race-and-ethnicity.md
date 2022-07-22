@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Professor Ariel White shares some of the strategies
+  she used to prepare students to engage in conversations about race and ethnicity
+  in the course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: d27a77b2-f718-69f2-d927-fd60d4e96eb9
 title: Facilitating Talk about Race and Ethnicity
 uid: 9495f54b-0a50-9f45-88b0-f0180267b632

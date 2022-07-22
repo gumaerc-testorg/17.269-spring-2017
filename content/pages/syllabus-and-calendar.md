@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course meeting times, a course description,
+  expectations and coursework, and a grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: 7c98ee21-92af-0fdc-27b4-6dbec03bb4bf
 ---
@@ -20,7 +24,7 @@ There are no prerequisites for this course.
 Course Description
 ------------------
 
-This is an undergraduate class on the role of race and ethnicity in American politics.There are no official prerequisites, but a basic understanding of American political institutions (as would be gained from _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013/)_) will be helpful, as will a willingness to engage with complex reading material. The focus will be on political science theories and research about race and politics, though we will also draw on work from sociology, history, and economics.
+This is an undergraduate class on the role of race and ethnicity in American politics.There are no official prerequisites, but a basic understanding of American political institutions (as would be gained from _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013)_) will be helpful, as will a willingness to engage with complex reading material. The focus will be on political science theories and research about race and politics, though we will also draw on work from sociology, history, and economics.
 
 We will ask big social science questions about race in America: What is "race"? How could we possibly measure it, and does it really matter? What does it mean to say that a policy is discriminatory, and how have social scientists and courts tried to measure racial discrimination? What do Americans think about race in the 21st century, and how do these opinions shape their voting and protest behavior?
 
@@ -37,7 +41,7 @@ There will also be occasional reading quizzes, in which students will be asked t
 
 Unless an assignment is explicitly labelled as collaborative, I expect that each person will present only their own work. Any work completed for another class must be disclosed (don't turn in the same paper or assignment for two different courses without prior approval). No assignments will be accepted late unless a prior extension was granted, or where required by institute policy. Makeup exams will only be provided as required by institute policy.
 
-For more information on the course assignments, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the course assignments, see the {{% resource_link 7fec3e98-1db8-d0bc-5a9f-647d8404de96 "Assignments" %}} section.
 
 Grading Policy
 --------------
@@ -455,7 +459,7 @@ Overview of Race and Policy
 
 Carceral State 1: Film Screening
 
-[_13th_](http://www.avaduvernay.com/13th/). Directed by Ava Duvernay. Color, 100 min. 2016.
+[_13{{< sup "th" >}}_](http://www.avaduvernay.com/13th/). Directed by Ava Duvernay. Color, 100 min. 2016.
 
 
 {{< tdclose >}}
