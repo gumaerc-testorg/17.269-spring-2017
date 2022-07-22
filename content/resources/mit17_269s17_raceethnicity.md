@@ -6,6 +6,7 @@ file: /courses/17-269-race-ethnicity-and-american-politics-spring-2017/d7bda8140
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '17.269S17 Race, Ethnicity, and American Politics - Assignments: Paper 1:
 uid: d7bda814-0d43-1c93-1b42-99e5a2cd5257
 ---
 This resource contains information regarding Race and Ethnicity Questions for the United States Census.
-
