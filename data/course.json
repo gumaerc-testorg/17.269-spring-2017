@@ -39,8 +39,10 @@
   },
   "learning_resource_types": [
     "Written Assignments with Examples",
-    "Exams"
+    "Exams",
+    "Instructor Insights"
   ],
-  "site_uid": "a749313d-96e2-44e4-a283-9f27418d10e9",
+  "site_uid": "0f0fe245-c39c-4116-83ce-ad6fa9b87763",
+  "site_short_id": "17.269-spring-2017",
   "title": "Course Metadata"
 }
