@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-269-race-ethnicity-and-american-politics-spring-2017/efd0e09023dad3c8cc99ab8ece751227_Ariel.jpg
+file_size: 28749
 file_type: image/jpeg
 image_metadata:
   caption: ''
