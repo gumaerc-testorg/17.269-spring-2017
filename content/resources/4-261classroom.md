@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-269-race-ethnicity-and-american-politics-spring-2017/82daf8d5f11dd6e2483b155c53fc3e1a_4-261classroom.jpg
+file_size: 14471
 file_type: image/jpeg
 image_metadata:
   caption: ''
