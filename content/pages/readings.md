@@ -76,11 +76,11 @@ Swidey, Neil. "[Trump's Anti-Immigration Playbook was Written 100 Years Ago. In 
 
 ### Watch this data visualization
 
-[Two Centuries of US Immigration](http://metrocosm.com/us-immigration-history-map.html), metrocosm.com.
+[Visualizing Two Centuries of U.S. Immigration](https://www.visualcapitalist.com/two-centuries-of-immigration/), visualcapitalist.com.
 
 ### Optional
 
-*Those interested in the history of immigration in the US may want to check out this online syllabus from the Immigration History Research Center:*   
+*Those interested in the history of immigration in the US may want to check out this online syllabus from the Immigration History Research Center:*    
 [#ImmigrationSyllabus: Essential Topics, Readings, and Multimedia that Provide Historical Context to Current Debates over Immigration Reform, Integration, and Citizenship (PDF)](http://drive.google.com/file/d/0B1eIDteoJgugVGRkcTRyb3RnRnc/edit).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -175,7 +175,7 @@ Campaigns, Advertising, Media
 
 \[G\] Chapter 3: Racial Attitudes, the Undeserving Poor, and Opposition to Welfare.
 
-\[G\] Chapter 5: The News Media and the Racialization of Poverty.   
+\[G\] Chapter 5: The News Media and the Racialization of Poverty.    
 (*Note: Chapter 5 might actually be more relevant than Chapter 2. Feel free to read it instead*.)
 
 \[ME\] Chapter 1: A Theory of Racial Appeals.
@@ -222,7 +222,7 @@ Gay, Claudine. "[Putting Race in Context: Identifying the Environmental Determin
 Stylized Facts / Overview of Group Participation
 {{< tdclose >}}{{< tdopen >}}
 
-\[M\] Chapter 2: Resources and Status of America's Racial Minorities.   
+\[M\] Chapter 2: Resources and Status of America's Racial Minorities.    
 (*Note: Revisit and skim*.)
 
 \[M\] Chapter 3: America's Racial Minorities in the Contemporary Political System: Actors, pp. 76–108.
@@ -253,7 +253,7 @@ Uggen, Christopher, and Jeff Manza. "[Democratic Contraction? Political Conseque
 Other Political Behaviors
 {{< tdclose >}}{{< tdopen >}}
 
-\[M\] Chapter 2: Resources and Status of America's Racial Minorities, pp. 48–63.   
+\[M\] Chapter 2: Resources and Status of America's Racial Minorities, pp. 48–63.    
 *(Revisit.)*
 
 Wallace, Sophia J., Chris Zepeda-Millán, et al. "[Spatial and Temporal Proximity: Examining the Effects of Protests on Political Attitudes](http://www.jstor.org/stable/24363495)." *American Journal of Political Science* 58, no. 2 (2014): 433–48.
@@ -270,7 +270,7 @@ Cyrus, Logan R. "[Making Black Voices Matter](https://www.nytimes.com/roomfordeb
 
 Gillion, Daniel Q. "[Protest and Congressional Behavior: Assessing Racial and Ethnic Minority Protests in the District](http://www.jstor.org/stable/10.1017/s0022381612000539)." *Journal of Politics* 74, no. 4 (2012): 950–62.
 
-Wasow, Omar. "[Do Protests Matter? Evidence from the 1960s Black Insurgency." (PDF)](http://www.omarwasow.com/Protests_on_Voting.pdf) February 2, 2017.   
+Wasow, Omar. "[Do Protests Matter? Evidence from the 1960s Black Insurgency." (PDF)](http://www.omarwasow.com/Protests_on_Voting.pdf) February 2, 2017.    
 (*Just read the paper itself. Students aren't expected to go through all of the appendices at the end*.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -327,7 +327,7 @@ Howe, Amy. "[Future of Voting Rights Up in the Air](http://www.scotusblog.com/20
 
 Katz, Ellen D. "[How Big is Shelby County?](http://www.scotusblog.com/2013/06/how-big-is-shelby-county/)" SCOTUSBlog, June 25, 2013.
 
-Shelby County, Alabama v., Eric H. Holder, Jr., et al. ["Brief of Historians and Social Scientists as Amici Curiae in Support of Respondents."](https://www.yumpu.com/en/document/read/34618056/historians-and-social-scientists-the-lawyers-committee-for-civil-) U.S. Supreme Court, February 1, 2013.   
+Shelby County, Alabama v., Eric H. Holder, Jr., et al. ["Brief of Historians and Social Scientists as Amici Curiae in Support of Respondents."](https://www.yumpu.com/en/document/read/34618056/historians-and-social-scientists-the-lawyers-committee-for-civil-) U.S. Supreme Court, February 1, 2013.    
 (*The whole argument is worth reading. But if pressed for time, read "Summary of Argument" and Section D, pp. 17–22*.)
 
 White, Ariel. "[Voter Discrimination Starts Well Before Election Day](http://bostonreview.net/politics/ariel-white-voter-id-laws)." *Boston Review*, November 1, 2016.
@@ -378,7 +378,7 @@ Hutchings, Vincent L., and Nicholas A. Valentino. "[The Centrality of Race in Am
 Overview of Race and Policy
 {{< tdclose >}}{{< tdopen >}}
 
-Coates, Ta-Nehisi. "[The Case for Reparations](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)." *The Atlantic*, June 2014.   
+Coates, Ta-Nehisi. "[The Case for Reparations](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)." *The Atlantic*, June 2014.    
 *(The whole article is recommended but Sections V–VI are required.)*
 
 Lipsky, Michael. "Street-Level Bureaucrats as Policy Makers." Chapter 2 in *Street-Level Bureaucracy: Dilemmas of the Individual in Public Services, 30*{{< sup "th" >}} *Anniversary Expanded Edition*. Russell Sage Foundation, 2010, pp. 13–18. ISBN: 9780871545442. \[Preview with [Google Books](http://books.google.com/books?id=cs_djgS5v-UC&pg=PA13=onepage)\]
@@ -393,7 +393,7 @@ Massey, Douglas S., and Nancy A. Denton. "Shoring the Bulwarks of Segregation, 1
 
 Carceral State 1: Film Screening
 
-[*13*](http://www.avaduvernay.com/13th/){{< sup "th" >}}. Directed by Ava Duvernay. Color, 100 min. 2016.
+[*13*](https://www.imdb.com/title/tt5895028/?ref_=fn_al_tt_3){{< sup "th" >}}. Directed by Ava Duvernay. Color, 100 min. 2016.
 
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned
