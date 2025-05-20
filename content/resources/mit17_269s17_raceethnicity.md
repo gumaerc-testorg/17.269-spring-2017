@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Race and Ethnicity Questions
   for the United States Census.
-file: /ol-ocw-studio-app/courses/17-269-race-ethnicity-and-american-politics-spring-2017/d7bda8140d431c931b4299e5a2cd5257_MIT17_269S17_RaceEthnicity.pdf
+file: /courses/17-269-race-ethnicity-and-american-politics-spring-2017/d7bda8140d431c931b4299e5a2cd5257_MIT17_269S17_RaceEthnicity.pdf
 file_size: 730919
 file_type: application/pdf
 learning_resource_types:
