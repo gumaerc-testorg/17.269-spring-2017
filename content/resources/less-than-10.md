@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-269-race-ethnicity-and-american-politics-spring-2017/6a92162248fadf40f771a0c971decb42_less-than-10.png
+file: /ol-ocw-studio-app/courses/17-269-race-ethnicity-and-american-politics-spring-2017/6a92162248fadf40f771a0c971decb42_less-than-10.png
 file_size: 2955
 file_type: image/png
 image_metadata:
