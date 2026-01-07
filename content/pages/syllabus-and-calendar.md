@@ -230,7 +230,7 @@ Overview of Race and Policy
 
 Carceral State 1: Film Screening
 
-{{% resource_link "98961f99-07bf-4838-847e-abe853a96766" "*13*" %}}{{< sup "th" >}}. Directed by Ava Duvernay. Color, 100 min. 2016.
+[*13*](https://www.imdb.com/title/tt5895028/?ref_=fn_al_tt_3){{< sup "th" >}}. Directed by Ava Duvernay. Color, 100 min. 2016.
 
 {{< tdclose >}}{{< tdopen >}}
  
